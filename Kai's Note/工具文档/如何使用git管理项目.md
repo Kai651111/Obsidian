@@ -1,3 +1,20 @@
+
+在结束学习/写笔记时执行：
+
+`进入文件夹的根目录，然后右键空白处，打开git bash`
+
+```bash
+git add . #把所有文件(.)，放入待提交区
+git commit -m "comment" #上传备注为“comment”的版本到本地
+git push #推送到云端github
+```
+
+其他命令：
+```bash
+git status #查看是否有没有上传的版本。
+```
+
+就够了。
 # Git 的真实工作流程
 
 Git 的状态流是这样的：
@@ -124,15 +141,7 @@ Git 也需要记录删除。
 
 你可以养成一个非常简单的习惯：
 
-在结束学习/写笔记时执行：
 
-```bash
-git add .
-git commit -m "notes update"
-git push
-```
-
-就够了。
 
 不用每次进入文件夹都做。
 
