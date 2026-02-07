@@ -1,0 +1,218 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "ExcalidrawSave",
+        "assets",
+        "工具文档",
+        "POLIMI",
+        "个人发展"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人发展": {
+      "children": [
+        "个人发展/开放式思路整理",
+        "个人发展/理论库",
+        "个人发展/个人系统"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人发展/个人系统": {
+      "children": [
+        "个人发展/个人系统/个人系统清单与地址.md",
+        "个人发展/个人系统/2026年度目标.md",
+        "个人发展/个人系统/成长模型：个价体、Precidence.md",
+        "个人发展/个人系统/意志力训练计划.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人发展/开放式思路整理": {
+      "children": [
+        "个人发展/开放式思路整理/成长理清思路专用.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人发展/理论库": {
+      "children": [
+        "个人发展/理论库/神经科学"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人发展/理论库/神经科学": {
+      "children": [
+        "个人发展/理论库/神经科学/神经科学原理：运动、压力与意志力.md",
+        "个人发展/理论库/神经科学/HPA轴与皮质醇.md",
+        "个人发展/理论库/神经科学/大脑皮层基本分类&功能.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "工具文档": {
+      "children": [
+        "工具文档/Zotero使用指南.md",
+        "工具文档/如何使用git管理项目.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets": {
+      "children": [
+        "assets/工具文档",
+        "assets/POLIMI",
+        "assets/ExcalidrawSave",
+        "assets/个人发展"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人发展": {
+      "children": [
+        "assets/个人发展/神经科学",
+        "assets/个人发展/开放式思路整理"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人发展/开放式思路整理": {
+      "children": [
+        "assets/个人发展/开放式思路整理/成长理清思路专用"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人发展/开放式思路整理/成长理清思路专用": {
+      "children": [
+        "assets/个人发展/开放式思路整理/成长理清思路专用/Pasted image 20260207163258.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人发展/神经科学": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "assets/工具文档": {
+      "children": [
+        "assets/工具文档/Zotero使用指南"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/工具文档/Zotero使用指南": {
+      "children": [
+        "assets/工具文档/Zotero使用指南/Pasted image 20260207190113.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/ExcalidrawSave": {
+      "children": [
+        "assets/ExcalidrawSave/理清思路专用 26-02-07_0.excalidraw",
+        "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/ExcalidrawSave/理清思路专用 26-02-07_0.excalidraw": {
+      "children": [
+        "assets/ExcalidrawSave/理清思路专用 26-02-07_0.excalidraw/Pasted Image 20260207171603_089.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw": {
+      "children": [
+        "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw/Pasted Image 20260207194808_854.png",
+        "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw/Pasted Image 20260207194829_042.png",
+        "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw/Pasted Image 20260207194835_533.png",
+        "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw/Pasted Image 20260207194859_226.png",
+        "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw/Pasted Image 20260207194910_185.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/POLIMI": {
+      "children": [
+        "assets/POLIMI/AMP",
+        "assets/POLIMI/工具文档",
+        "assets/POLIMI/ExcalidrawSave"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/POLIMI/工具文档": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "assets/POLIMI/AMP": {
+      "children": [
+        "assets/POLIMI/AMP/错题笔记",
+        "assets/POLIMI/AMP/焊接科普视频"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/POLIMI/AMP/错题笔记": {
+      "children": [
+        "assets/POLIMI/AMP/错题笔记/Question Table & epiphany（飞机上）"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/POLIMI/AMP/错题笔记/Question Table & epiphany（飞机上）": {
+      "children": [
+        "assets/POLIMI/AMP/错题笔记/Question Table & epiphany（飞机上）/file-20260207170043765.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/POLIMI/AMP/焊接科普视频": {
+      "children": [
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043614.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043615.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043616.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043617.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043618.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043618 1.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043619.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043620.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043621.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043621 1.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043622.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043623.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043624.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043625.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043626.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043627.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043628.png",
+        "assets/POLIMI/AMP/焊接科普视频/file-20260207170043629.png",
+        "assets/POLIMI/AMP/焊接科普视频/说明：为什么这个文档的图片不是paste，而是file-日期.md",
+        "assets/POLIMI/AMP/焊接科普视频/Pasted image 20260207170746.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/POLIMI/ExcalidrawSave": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "ExcalidrawSave": {
+      "children": [
+        "ExcalidrawSave/理清思路专用 26-02-07_0.excalidraw.md",
+        "ExcalidrawSave/口试应对策略 26-02-07.excalidraw.md",
+        "ExcalidrawSave/理清思路专用 26-02-07_1.excalidraw.md",
+        "ExcalidrawSave/理清思路专用 26-02-07.excalidraw.md",
+        "ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "POLIMI": {
+      "children": [
+        "POLIMI/AMP"
+      ],
+      "sortOrder": "custom"
+    },
+    "POLIMI/AMP": {
+      "children": [
+        "POLIMI/AMP/错题笔记",
+        "POLIMI/AMP/口试应对策略.md",
+        "POLIMI/AMP/焊接科普视频.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "POLIMI/AMP/错题笔记": {
+      "children": [
+        "POLIMI/AMP/错题笔记/Question Table & epiphany（飞机上）.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "bottom"
+}

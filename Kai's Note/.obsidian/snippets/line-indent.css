@@ -1,0 +1,16 @@
+/* 阅读模式缩进段落 */
+.markdown-preview-view p {
+	text-indent: 2em;
+}
+
+/*
+/* 编辑模式缩进段落 */
+.markdown-source-view.mod-cm6 .cm-line {
+	text-indent: 2em;
+}
+/* 编辑模式中排除标题和列表 */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header,
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line {
+	text-indent: 0 !important;
+}
+*/

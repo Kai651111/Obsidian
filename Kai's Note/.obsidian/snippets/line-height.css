@@ -1,0 +1,12 @@
+/* 调整普通文本行高 */
+.cm-line {
+line-height: 1.8; /* 按需调整数值 */
+}
+/* 调整标题行高（可选） */
+.cm-header {
+line-height: 1.6;
+}
+/* 调整代码块行高（可选） */
+.cm-line .HyperMD-codeblock {
+line-height: 1.6;
+}

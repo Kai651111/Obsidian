@@ -1,0 +1,22 @@
+{
+  "promptDelete": true,
+  "showInlineTitle": true,
+  "showIndentGuide": false,
+  "tabSize": 4,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "smartIndentList": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/"
+}

@@ -1,0 +1,11 @@
+{
+  "showViewHeader": true,
+  "showRibbon": true,
+  "baseFontSizeAction": true,
+  "baseFontSize": 17,
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "line-height"
+  ],
+  "cssTheme": "Velocity"
+}
