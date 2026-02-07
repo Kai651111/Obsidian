@@ -28,5 +28,6 @@
   "blue-topaz-theme@@dvtable-style-options": "default-dvtable",
   "obsidian-velocity-config@@disable-list-styling": true,
   "obsidian-velocity-config@@restore-indent-guide": true,
-  "obsidian-velocity@@theme-paint-light": "white"
+  "obsidian-velocity@@theme-paint-light": "white",
+  "obsidian-velocity-config@@disable-title-h1": true
 }
