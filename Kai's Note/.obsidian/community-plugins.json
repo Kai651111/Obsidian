@@ -11,5 +11,7 @@
   "better-export-pdf",
   "obsidian-contextual-typography",
   "iconic",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-enhancing-export",
+  "obsidian-pandoc"
 ]

@@ -18,5 +18,8 @@
   },
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "/"
+  "attachmentFolderPath": "/",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": false,
+  "useMarkdownLinks": true
 }

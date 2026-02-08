@@ -22,28 +22,21 @@
     "个人系统/个人执行系统": {
       "children": [
         "个人系统/个人执行系统/2026年度目标.md",
-        "个人系统/个人执行系统/成长模型：个价体、Precidence.md",
         "个人系统/个人执行系统/意志力训练计划.md"
       ],
       "sortOrder": "custom"
     },
     "个人系统/使用指南": {
       "children": [
-        "个人系统/使用指南/核心说明书与搭建状态.md",
+        "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md",
         "个人系统/使用指南/核心说明书与搭建状态子项",
-        "个人系统/使用指南/个人系统-详细使用指南.md",
         "个人系统/使用指南/笔记工具指南.md"
       ],
       "sortOrder": "custom"
     },
     "个人系统/使用指南/核心说明书与搭建状态子项": {
       "children": [
-        "个人系统/使用指南/核心说明书与搭建状态子项/象限工作法.md",
-        "个人系统/使用指南/核心说明书与搭建状态子项/快速学习系统.md",
-        "个人系统/使用指南/核心说明书与搭建状态子项/王阳明心学理论.md",
-        "个人系统/使用指南/核心说明书与搭建状态子项/监督反馈系统.md",
-        "个人系统/使用指南/核心说明书与搭建状态子项/情绪理论.md",
-        "个人系统/使用指南/核心说明书与搭建状态子项/情绪系统.md"
+        "个人系统/使用指南/核心说明书与搭建状态子项/象限工作法.md"
       ],
       "sortOrder": "custom"
     },
@@ -62,8 +55,8 @@
     "个人系统/系统理论库/神经科学理论": {
       "children": [
         "个人系统/系统理论库/神经科学理论/神经科学原理：运动、压力与意志力.md",
-        "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md",
-        "个人系统/系统理论库/神经科学理论/大脑皮层基本分类&功能.md"
+        "个人系统/系统理论库/神经科学理论/大脑皮层基本分类&功能.md",
+        "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md"
       ],
       "sortOrder": "custom"
     },
@@ -96,7 +89,25 @@
     },
     "assets/个人系统": {
       "children": [
-        "assets/个人系统/思路整理"
+        "assets/个人系统/思路整理",
+        "assets/个人系统/使用指南"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/使用指南": {
+      "children": [
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态": {
+      "children": [
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/个人系统-详细使用指南.md",
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/监督反馈系统.md",
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/快速学习系统.md",
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪理论.md",
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统.md",
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/王阳明心学理论.md"
       ],
       "sortOrder": "custom"
     },
@@ -127,7 +138,14 @@
     "assets/ExcalidrawSave": {
       "children": [
         "assets/ExcalidrawSave/理清思路专用 26-02-07_0.excalidraw",
-        "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw"
+        "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw",
+        "assets/ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw": {
+      "children": [
+        "assets/ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw/成长模型：个价体、Precidence.md"
       ],
       "sortOrder": "custom"
     },
@@ -214,7 +232,8 @@
         "ExcalidrawSave/理清思路专用 26-02-07_1.excalidraw.md",
         "ExcalidrawSave/理清思路专用 26-02-07.excalidraw.md",
         "ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw.md",
-        "ExcalidrawSave/个人系统-理论-数据库：清单与地址 26-02-07.excalidraw.md"
+        "ExcalidrawSave/个人系统-理论-数据库：清单与地址 26-02-07.excalidraw.md",
+        "ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw.md"
       ],
       "sortOrder": "custom"
     },

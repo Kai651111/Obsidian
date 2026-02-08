@@ -17,7 +17,7 @@ python server.py
 - github项目官网：[GitHub - guaguastandup/zotero-pdf2zh: PDF2zh for Zotero | Zotero PDF中文翻译插件](https://github.com/guaguastandup/zotero-pdf2zh)
 	- 不懂的问题看Readme.md
 - 小红书：[最好的Zotero PDF开源翻译插件 - 小红书](https://www.xiaohongshu.com/explore/6835cf2a000000002001cb23?source=webshare&xhsshare=pc_web&xsec_token=AByYgg_3q4kcWby9kkgh1bbusrKL2cvXE0YMF0zftPp5w=&xsec_source=pc_share)
-### 课件翻译：绝了
+### 课件翻译：绝了D
 ![[Pasted image 20260207190113.png|375]]
 - 点击**第三个**：双语对照。他就会生成一个左中右英的pdf文件，再导入到onenote里面，完美。
 ***

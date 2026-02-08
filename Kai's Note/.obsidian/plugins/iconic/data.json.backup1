@@ -25,7 +25,7 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": true,
-    "rulePage": "file"
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -49,36 +49,46 @@
         "e93c0c75082831da"
       ]
     },
-    "个人发展": {
-      "icon": "⏫",
-      "color": "purple",
+    "个人系统": {
+      "icon": "🌔",
+      "color": "blue",
       "unsynced": [
         "e93c0c75082831da"
       ]
     },
-    "个人发展/个人系统": {
-      "icon": "🧠",
+    "个人系统/个人执行系统": {
+      "icon": "lucide-spline-pointer",
       "unsynced": [
         "e93c0c75082831da"
-      ]
+      ],
+      "color": "blue"
     },
-    "个人发展/个人系统-理论-数据库：清单与地址.md": {
+    "个人系统/使用指南": {
+      "icon": "lucide-compass",
+      "unsynced": [
+        "e93c0c75082831da"
+      ],
+      "color": "blue"
+    },
+    "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md": {
       "icon": "lucide-pin",
       "color": "red"
     },
-    "个人发展/开放式思路整理": {
-      "icon": "🤯",
+    "个人系统/思路整理": {
+      "icon": "lucide-brain-circuit",
       "unsynced": [
         "e93c0c75082831da"
-      ]
+      ],
+      "color": "blue"
     },
-    "个人发展/理论库": {
-      "icon": "📚",
+    "个人系统/系统理论库": {
+      "icon": "lucide-book-text",
       "unsynced": [
         "e93c0c75082831da"
-      ]
+      ],
+      "color": "blue"
     },
-    "个人发展/理论库/神经科学理论": {
+    "个人系统/系统理论库/神经科学理论": {
       "icon": "lucide-brain",
       "unsynced": [
         "e93c0c75082831da"
@@ -111,18 +121,6 @@
       "enabled": true,
       "icon": "💡",
       "color": "red"
-    },
-    {
-      "id": "LH0sZ",
-      "name": "无标题规则",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "name",
-          "operator": "contains"
-        }
-      ],
-      "enabled": true
     }
   ],
   "folderRules": [
