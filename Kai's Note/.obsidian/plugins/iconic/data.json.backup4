@@ -1,19 +1,19 @@
 {
-  "biggerIcons": "mobile",
-  "clickableIcons": "desktop",
-  "showAllFileIcons": false,
-  "showAllFolderIcons": false,
-  "minimalFolderIcons": true,
+  "biggerIcons": "on",
+  "clickableIcons": "on",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": false,
   "showMarkdownTabIcons": true,
-  "showTitleIcons": true,
+  "showTitleIcons": false,
   "showTagPillIcons": false,
   "showMenuActions": true,
-  "showSuggestionIcons": false,
+  "showSuggestionIcons": true,
   "showQuickSwitcherIcons": true,
   "showMoveFileIcons": true,
-  "showItemName": "desktop",
-  "biggerSearchResults": "mobile",
-  "maxSearchResults": 50,
+  "showItemName": "on",
+  "biggerSearchResults": "on",
+  "maxSearchResults": 170,
   "colorPicker1": "list",
   "colorPicker2": "rgb",
   "uncolorHover": false,
@@ -24,16 +24,120 @@
   "maxBackups": 5,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
-    "rulePage": "file"
+    "emojiMode": true,
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "ExcalidrawSave": {
+      "icon": "lucide-package",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "POLIMI": {
+      "icon": "🤖",
+      "color": "purple",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "assets": {
+      "icon": "lucide-package",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "个人系统": {
+      "icon": "🌔",
+      "color": "blue",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "个人系统/个人执行系统": {
+      "icon": "lucide-spline-pointer",
+      "unsynced": [
+        "e93c0c75082831da"
+      ],
+      "color": "blue"
+    },
+    "个人系统/使用指南": {
+      "icon": "lucide-compass",
+      "unsynced": [
+        "e93c0c75082831da"
+      ],
+      "color": "blue"
+    },
+    "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md": {
+      "icon": "lucide-pin",
+      "color": "red"
+    },
+    "个人系统/思路整理": {
+      "icon": "lucide-brain-circuit",
+      "unsynced": [
+        "e93c0c75082831da"
+      ],
+      "color": "blue"
+    },
+    "个人系统/系统理论库": {
+      "icon": "lucide-book-text",
+      "unsynced": [
+        "e93c0c75082831da"
+      ],
+      "color": "blue"
+    },
+    "个人系统/系统理论库/神经科学理论": {
+      "icon": "lucide-brain",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "工具文档": {
+      "icon": "🧰",
+      "color": "gray",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {},
-  "fileRules": [],
-  "folderRules": []
+  "fileRules": [
+    {
+      "id": "wFotJ",
+      "name": "POLIMI-AMP",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "startsWith",
+          "value": "POLIMI/AMP"
+        }
+      ],
+      "enabled": true,
+      "icon": "💡",
+      "color": "red"
+    }
+  ],
+  "folderRules": [
+    {
+      "id": "CLRCa",
+      "name": "POLIMI AMP",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "contains",
+          "value": "AMP"
+        }
+      ],
+      "enabled": true,
+      "icon": "📦",
+      "color": "red"
+    }
+  ]
 }

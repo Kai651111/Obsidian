@@ -1,0 +1,145 @@
+{
+  "biggerIcons": "on",
+  "clickableIcons": "on",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": false,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": false,
+  "showTagPillIcons": false,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "on",
+  "biggerSearchResults": "on",
+  "maxSearchResults": 170,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "maxBackups": 5,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "ExcalidrawSave": {
+      "icon": "lucide-package",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "POLIMI": {
+      "icon": "🤖",
+      "color": "purple",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "assets": {
+      "icon": "lucide-package",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "个人发展": {
+      "icon": "⏫",
+      "color": "purple",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "个人发展/个人系统": {
+      "icon": "🧠",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "个人发展/个人系统-理论-数据库：清单与地址.md": {
+      "icon": "lucide-pin",
+      "color": "red"
+    },
+    "个人发展/开放式思路整理": {
+      "icon": "🤯",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "个人发展/理论库": {
+      "icon": "📚",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "个人发展/理论库/神经科学理论": {
+      "icon": "lucide-brain",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    },
+    "工具文档": {
+      "icon": "🧰",
+      "color": "gray",
+      "unsynced": [
+        "e93c0c75082831da"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "wFotJ",
+      "name": "POLIMI-AMP",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "startsWith",
+          "value": "POLIMI/AMP"
+        }
+      ],
+      "enabled": true,
+      "icon": "💡",
+      "color": "red"
+    },
+    {
+      "id": "LH0sZ",
+      "name": "无标题规则",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true
+    }
+  ],
+  "folderRules": [
+    {
+      "id": "CLRCa",
+      "name": "POLIMI AMP",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "contains",
+          "value": "AMP"
+        }
+      ],
+      "enabled": true,
+      "icon": "📦",
+      "color": "red"
+    }
+  ]
+}

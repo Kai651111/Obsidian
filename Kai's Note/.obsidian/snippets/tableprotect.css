@@ -1,0 +1,17 @@
+ table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+    margin: 12pt auto !important;
+    page-break-inside: avoid !important;
+  }
+  
+  th, td {
+    !border: 1pt solid #000 !important;
+    padding: 6pt 8pt !important;
+    !text-align: left !important;
+  }
+  
+  th {
+    !font-weight: bold !important;
+    !background-color: #f0f0f0 !important;
+  }

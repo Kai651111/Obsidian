@@ -4,6 +4,7 @@
       "children": [
         "ExcalidrawSave",
         "assets",
+        "XMind Files",
         "工具文档",
         "POLIMI",
         "个人系统"
@@ -29,14 +30,7 @@
     "个人系统/使用指南": {
       "children": [
         "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md",
-        "个人系统/使用指南/核心说明书与搭建状态子项",
         "个人系统/使用指南/笔记工具指南.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "个人系统/使用指南/核心说明书与搭建状态子项": {
-      "children": [
-        "个人系统/使用指南/核心说明书与搭建状态子项/象限工作法.md"
       ],
       "sortOrder": "custom"
     },
@@ -63,7 +57,8 @@
     "工具文档": {
       "children": [
         "工具文档/Zotero使用指南.md",
-        "工具文档/如何使用git管理项目.md"
+        "工具文档/如何使用git管理项目.md",
+        "工具文档/个人管理SOP工具指南.md"
       ],
       "sortOrder": "custom"
     },
@@ -103,8 +98,9 @@
     "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态": {
       "children": [
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/个人系统-详细使用指南.md",
-        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/监督反馈系统.md",
-        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/快速学习系统.md",
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/象限工作法.md",
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/监督-反馈系统与数据库.md",
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/快速学习系统1.0.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪理论.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/王阳明心学理论.md"
@@ -131,7 +127,8 @@
     },
     "assets/工具文档/Zotero使用指南": {
       "children": [
-        "assets/工具文档/Zotero使用指南/Pasted image 20260207190113.png"
+        "assets/工具文档/Zotero使用指南/Pasted image 20260207190113.png",
+        "assets/工具文档/Zotero使用指南/Pasted image 20260208170817.png"
       ],
       "sortOrder": "custom"
     },
@@ -239,7 +236,8 @@
     },
     "POLIMI": {
       "children": [
-        "POLIMI/AMP"
+        "POLIMI/AMP",
+        "POLIMI/sf.md"
       ],
       "sortOrder": "custom"
     },
@@ -254,6 +252,60 @@
     "POLIMI/AMP/错题笔记": {
       "children": [
         "POLIMI/AMP/错题笔记/Question Table & epiphany（飞机上）.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "XMind Files": {
+      "children": [
+        "XMind Files/Matlab函数积累1.xmind",
+        "XMind Files/Personal Development",
+        "XMind Files/AMP",
+        "XMind Files/Dynamics",
+        "XMind Files/Feedback思维导图",
+        "XMind Files/Math"
+      ],
+      "sortOrder": "custom"
+    },
+    "XMind Files/AMP": {
+      "children": [
+        "XMind Files/AMP/AMP L1.1.xmind",
+        "XMind Files/AMP/AMP L1.2.xmind",
+        "XMind Files/AMP/AMP L1.3Laser Sources.xmind",
+        "XMind Files/AMP/AMP L3 EDM.xmind"
+      ],
+      "sortOrder": "custom"
+    },
+    "XMind Files/Dynamics": {
+      "children": [
+        "XMind Files/Dynamics/534F525513AF14876830FCE480551AB68D70F644554D.ico",
+        "XMind Files/Dynamics/Desktop.ini",
+        "XMind Files/Dynamics/Lesson 1.xmind"
+      ],
+      "sortOrder": "custom"
+    },
+    "XMind Files/Feedback思维导图": {
+      "children": [
+        "XMind Files/Feedback思维导图/534F525513AF14876830FCE480551AB68D70F644554D.ico",
+        "XMind Files/Feedback思维导图/Analysis & Design of Feedback Control System.xmind",
+        "XMind Files/Feedback思维导图/Frequency Domain.xmind",
+        "XMind Files/Feedback思维导图/Time Domain.xmind"
+      ],
+      "sortOrder": "custom"
+    },
+    "XMind Files/Math": {
+      "children": [
+        "XMind Files/Math/Linear Algebra Basis.xmind",
+        "XMind Files/Math/Principal Component Analysis.xmind",
+        "XMind Files/Math/Probability and Statistics.xmind"
+      ],
+      "sortOrder": "custom"
+    },
+    "XMind Files/Personal Development": {
+      "children": [
+        "XMind Files/Personal Development/Individual Cognitive Load.xmind",
+        "XMind Files/Personal Development/哲学体系.xmind",
+        "XMind Files/Personal Development/外部监督系统.xmind",
+        "XMind Files/Personal Development/快速学习Scheme.xmind"
       ],
       "sortOrder": "custom"
     }

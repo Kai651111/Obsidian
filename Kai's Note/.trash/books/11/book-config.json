@@ -1,0 +1,95 @@
+{
+  "basic": {
+    "author": [
+      "Yeban"
+    ],
+    "title": "11",
+    "uuid": "bf23d395-df93-46c8-9c2a-0b5b150adcf8",
+    "created_at": "2026-02-08T19:06:58.571Z"
+  },
+  "structure": {
+    "tree": [
+      {
+        "id": "preface",
+        "title": "前言",
+        "type": "file",
+        "path": "前言.md",
+        "order": 0,
+        "default_status": "draft",
+        "created_at": "2026-02-08T19:03:05.860Z",
+        "last_modified": "2026-02-08T19:03:05.860Z"
+      },
+      {
+        "id": "outline",
+        "title": "大纲",
+        "type": "file",
+        "path": "大纲.md",
+        "order": 1,
+        "default_status": "draft",
+        "created_at": "2026-02-08T19:03:05.860Z",
+        "last_modified": "2026-02-08T19:03:05.860Z"
+      },
+      {
+        "id": "volume1",
+        "title": "第一卷",
+        "type": "group",
+        "path": "第一卷",
+        "order": 2,
+        "default_status": "draft",
+        "is_expanded": true,
+        "created_at": "2026-02-08T19:03:05.860Z",
+        "last_modified": "2026-02-08T19:03:05.860Z",
+        "children": [
+          {
+            "id": "chapter1",
+            "title": "第一章",
+            "type": "file",
+            "path": "第一卷/第一章.md",
+            "order": 0,
+            "default_status": "draft",
+            "created_at": "2026-02-08T19:03:05.860Z",
+            "last_modified": "2026-02-08T19:08:10.928Z"
+          },
+          {
+            "id": "chapter2",
+            "title": "第二章",
+            "type": "file",
+            "path": "第一卷/第二章.md",
+            "order": 1,
+            "default_status": "draft",
+            "created_at": "2026-02-08T19:03:05.860Z",
+            "last_modified": "2026-02-08T19:03:05.860Z"
+          }
+        ]
+      },
+      {
+        "id": "afterword",
+        "title": "后记",
+        "type": "file",
+        "path": "后记.md",
+        "order": 3,
+        "default_status": "draft",
+        "created_at": "2026-02-08T19:03:05.860Z",
+        "last_modified": "2026-02-08T19:03:05.860Z"
+      }
+    ]
+  },
+  "stats": {
+    "total_words": 0,
+    "target_total_words": 10000,
+    "progress_by_words": 0,
+    "progress_by_chapter": 0,
+    "daily_words": {
+      "2026-02-08": 0
+    },
+    "writing_days": 0,
+    "average_daily_words": 0,
+    "last_writing_date": "2026-02-08T19:08:10.939Z",
+    "last_modified": "2026-02-08T19:08:10.939Z"
+  },
+  "export": {
+    "default_format": "pdf",
+    "template": "default",
+    "include_cover": true
+  }
+}

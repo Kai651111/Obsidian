@@ -1,8 +1,8 @@
 {
   "showTitle": true,
   "maxLevel": "6",
-  "displayHeader": true,
-  "displayFooter": true,
+  "displayHeader": false,
+  "displayFooter": false,
   "headerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"title\"></span></div>",
   "footerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div>",
   "printBackground": false,
@@ -10,7 +10,7 @@
   "displayMetadata": false,
   "debug": false,
   "isTimestamp": false,
-  "enabledCss": false,
+  "enabledCss": true,
   "concurrency": "5",
   "prevConfig": {
     "pageSize": "A4",
@@ -25,6 +25,8 @@
     "marginRight": "10",
     "displayHeader": true,
     "displayFooter": true,
-    "cssSnippet": "0"
+    "cssSnippet": "D:\\学术与学习\\Obsidian\\Kai's Note\\.obsidian\\snippets\\tableprotect.css",
+    "pageWidth": "206",
+    "pageHeight": "1058"
   }
 }

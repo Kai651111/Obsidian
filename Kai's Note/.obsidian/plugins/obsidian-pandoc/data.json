@@ -10,6 +10,6 @@
   "pandoc": "D:\\学术与学习\\Obsidian\\pandoc-3.9\\pandoc.exe",
   "pdflatex": null,
   "outputFolder": "C:\\Users\\Keiran\\Desktop\\PandocExport",
-  "extraArguments": "",
+  "extraArguments": "--reference-doc=D:\\pandocwordfile\\template.docx\n--lua-filter=D:\\pandocwordfile\\markdown-to-docx.lua",
   "exportFrom": "html"
 }

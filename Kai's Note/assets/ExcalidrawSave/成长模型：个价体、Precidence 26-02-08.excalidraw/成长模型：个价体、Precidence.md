@@ -66,4 +66,4 @@
 
 ‌‌‌‌　　我甚至还可以结合ABCD四个阶段的任务分配，给这个阶段起名字，比如：学习训练Phase、认知上涨Phase、情绪消除Phase、破釜沉舟埋头猛学phase……
 
-![[ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw]]
+![成长模型：个价体、Precidence 26-02-08.excalidraw](ExcalidrawSave/成长模型：个价体、Precidence%2026-02-08.excalidraw.md)
