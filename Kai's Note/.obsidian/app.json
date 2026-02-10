@@ -19,7 +19,7 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "/",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
   "useMarkdownLinks": true
 }

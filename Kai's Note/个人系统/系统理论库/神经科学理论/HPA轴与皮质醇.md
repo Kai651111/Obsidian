@@ -3,7 +3,7 @@
 
 
 ## 皮质醇的缺点
-[XMind](../../../XMind%20Files/Matlab函数积累1.xmind)
+[XMind](assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇/Matlab函数积累1.xmind)
 
 
 

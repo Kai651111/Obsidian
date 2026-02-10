@@ -4,61 +4,105 @@
       "children": [
         "ExcalidrawSave",
         "assets",
-        "XMind Files",
         "工具文档",
         "POLIMI",
+        "XMind Files",
         "个人系统"
       ],
       "sortOrder": "custom"
     },
     "个人系统": {
       "children": [
-        "个人系统/思路整理",
-        "个人系统/使用指南",
         "个人系统/个人执行系统",
+        "个人系统/使用指南",
         "个人系统/系统理论库"
       ],
       "sortOrder": "custom"
     },
     "个人系统/个人执行系统": {
       "children": [
-        "个人系统/个人执行系统/2026年度目标.md",
-        "个人系统/个人执行系统/意志力训练计划.md"
+        "个人系统/个人执行系统/情绪系统",
+        "个人系统/个人执行系统/Daily Time Block.md",
+        "个人系统/个人执行系统/Relaxo：防止久坐系统.md",
+        "个人系统/个人执行系统/意志力训练计划.md",
+        "个人系统/个人执行系统/成长模型：个价体、Precidence.md",
+        "个人系统/个人执行系统/晨起计划+睡眠计划.md",
+        "个人系统/个人执行系统/象限工作法.md",
+        "个人系统/个人执行系统/运动计划.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人系统/个人执行系统/情绪系统": {
+      "children": [
+        "个人系统/个人执行系统/情绪系统/情绪系统：综述.md"
       ],
       "sortOrder": "custom"
     },
     "个人系统/使用指南": {
       "children": [
-        "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md",
-        "个人系统/使用指南/笔记工具指南.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "个人系统/思路整理": {
-      "children": [
-        "个人系统/思路整理/整理思路 2026.2.2.md"
+        "个人系统/使用指南/个人系统-详细使用指南.md",
+        "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md"
       ],
       "sortOrder": "custom"
     },
     "个人系统/系统理论库": {
       "children": [
-        "个人系统/系统理论库/神经科学理论"
+        "个人系统/系统理论库/亲密关系理论",
+        "个人系统/系统理论库/哲学理论",
+        "个人系统/系统理论库/学习理论",
+        "个人系统/系统理论库/心理学理论",
+        "个人系统/系统理论库/王阳明心学理论",
+        "个人系统/系统理论库/社交与社会理论",
+        "个人系统/系统理论库/神经科学理论",
+        "个人系统/系统理论库/2026年度目标.md",
+        "个人系统/系统理论库/监督与反馈理论.md",
+        "个人系统/系统理论库/认知资源理论.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人系统/系统理论库/亲密关系理论": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "个人系统/系统理论库/社交与社会理论": {
+      "children": [
+        "个人系统/系统理论库/社交与社会理论/工作场合社交理论.md",
+        "个人系统/系统理论库/社交与社会理论/广义社交理论.md",
+        "个人系统/系统理论库/社交与社会理论/烂人与公平性理论.md",
+        "个人系统/系统理论库/社交与社会理论/社会实践理论.md"
       ],
       "sortOrder": "custom"
     },
     "个人系统/系统理论库/神经科学理论": {
       "children": [
-        "个人系统/系统理论库/神经科学理论/神经科学原理：运动、压力与意志力.md",
+        "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md",
         "个人系统/系统理论库/神经科学理论/大脑皮层基本分类&功能.md",
-        "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md"
+        "个人系统/系统理论库/神经科学理论/神经科学原理：运动、压力与意志力.md"
       ],
+      "sortOrder": "custom"
+    },
+    "个人系统/系统理论库/王阳明心学理论": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "个人系统/系统理论库/心理学理论": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "个人系统/系统理论库/学习理论": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "个人系统/系统理论库/哲学理论": {
+      "children": [],
       "sortOrder": "custom"
     },
     "工具文档": {
       "children": [
         "工具文档/Zotero使用指南.md",
         "工具文档/如何使用git管理项目.md",
-        "工具文档/个人管理SOP工具指南.md"
+        "工具文档/个人管理SOP工具指南.md",
+        "工具文档/笔记工具指南.md"
       ],
       "sortOrder": "custom"
     },
@@ -68,6 +112,7 @@
         "assets/POLIMI",
         "assets/ExcalidrawSave",
         "assets/个人发展",
+        "assets/assets",
         "assets/个人系统"
       ],
       "sortOrder": "custom"
@@ -84,8 +129,27 @@
     },
     "assets/个人系统": {
       "children": [
-        "assets/个人系统/思路整理",
-        "assets/个人系统/使用指南"
+        "assets/个人系统/个人执行系统",
+        "assets/个人系统/使用指南",
+        "assets/个人系统/系统理论库"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/个人执行系统": {
+      "children": [
+        "assets/个人系统/个人执行系统/情绪系统"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/个人执行系统/情绪系统": {
+      "children": [
+        "assets/个人系统/个人执行系统/情绪系统/情绪系统：综述"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/个人执行系统/情绪系统/情绪系统：综述": {
+      "children": [
+        "assets/个人系统/个人执行系统/情绪系统/情绪系统：综述/现代心理学中的情绪调节模型综述与应用分析.pdf"
       ],
       "sortOrder": "custom"
     },
@@ -97,25 +161,31 @@
     },
     "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态": {
       "children": [
-        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/个人系统-详细使用指南.md",
-        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/象限工作法.md",
-        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/监督-反馈系统与数据库.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/快速学习系统1.0.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪理论.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统.md",
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库.md",
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪认知系统.md",
+        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/每日监督-反馈系统与数据库.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/王阳明心学理论.md"
       ],
       "sortOrder": "custom"
     },
-    "assets/个人系统/思路整理": {
+    "assets/个人系统/系统理论库": {
       "children": [
-        "assets/个人系统/思路整理/整理思路 2026.2.2"
+        "assets/个人系统/系统理论库/神经科学理论"
       ],
       "sortOrder": "custom"
     },
-    "assets/个人系统/思路整理/整理思路 2026.2.2": {
+    "assets/个人系统/系统理论库/神经科学理论": {
       "children": [
-        "assets/个人系统/思路整理/整理思路 2026.2.2/Pasted image 20260207163258.png"
+        "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇": {
+      "children": [
+        "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇/Matlab函数积累1.xmind"
       ],
       "sortOrder": "custom"
     },
@@ -132,17 +202,78 @@
       ],
       "sortOrder": "custom"
     },
-    "assets/ExcalidrawSave": {
+    "assets/assets": {
       "children": [
-        "assets/ExcalidrawSave/理清思路专用 26-02-07_0.excalidraw",
-        "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw",
-        "assets/ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw"
+        "assets/assets/assets",
+        "assets/assets/个人系统"
       ],
       "sortOrder": "custom"
     },
-    "assets/ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw": {
+    "assets/assets/个人系统": {
       "children": [
-        "assets/ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw/成长模型：个价体、Precidence.md"
+        "assets/assets/个人系统/使用指南"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/assets/个人系统/使用指南": {
+      "children": [
+        "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态": {
+      "children": [
+        "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库": {
+      "children": [
+        "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/Pasted image 20260209193615.png",
+        "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/整理思路 2026.2.2.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/assets/assets": {
+      "children": [
+        "assets/assets/assets/个人系统"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/assets/assets/个人系统": {
+      "children": [
+        "assets/assets/assets/个人系统/使用指南"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/assets/assets/个人系统/使用指南": {
+      "children": [
+        "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态": {
+      "children": [
+        "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库": {
+      "children": [
+        "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/整理思路 2026.2.2"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/整理思路 2026.2.2": {
+      "children": [
+        "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/整理思路 2026.2.2/Pasted image 20260207163258.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/ExcalidrawSave": {
+      "children": [
+        "assets/ExcalidrawSave/理清思路专用 26-02-07_0.excalidraw",
+        "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw"
       ],
       "sortOrder": "custom"
     },
@@ -177,7 +308,8 @@
     "assets/POLIMI/AMP": {
       "children": [
         "assets/POLIMI/AMP/错题笔记",
-        "assets/POLIMI/AMP/焊接科普视频"
+        "assets/POLIMI/AMP/焊接科普视频",
+        "assets/POLIMI/AMP/口试应对策略"
       ],
       "sortOrder": "custom"
     },
@@ -218,6 +350,12 @@
       ],
       "sortOrder": "custom"
     },
+    "assets/POLIMI/AMP/口试应对策略": {
+      "children": [
+        "assets/POLIMI/AMP/口试应对策略/Individual Cognitive Load.xmind"
+      ],
+      "sortOrder": "custom"
+    },
     "assets/POLIMI/ExcalidrawSave": {
       "children": [],
       "sortOrder": "custom"
@@ -230,6 +368,8 @@
         "ExcalidrawSave/理清思路专用 26-02-07.excalidraw.md",
         "ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw.md",
         "ExcalidrawSave/个人系统-理论-数据库：清单与地址 26-02-07.excalidraw.md",
+        "ExcalidrawSave/个人系统清单：核心说明书与搭建状态 26-02-09.excalidraw.md",
+        "ExcalidrawSave/情绪系统：综述 26-02-09.excalidraw.md",
         "ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw.md"
       ],
       "sortOrder": "custom"
@@ -257,12 +397,11 @@
     },
     "XMind Files": {
       "children": [
-        "XMind Files/Matlab函数积累1.xmind",
-        "XMind Files/Personal Development",
         "XMind Files/AMP",
         "XMind Files/Dynamics",
         "XMind Files/Feedback思维导图",
-        "XMind Files/Math"
+        "XMind Files/Math",
+        "XMind Files/Personal Development"
       ],
       "sortOrder": "custom"
     },
@@ -302,10 +441,9 @@
     },
     "XMind Files/Personal Development": {
       "children": [
-        "XMind Files/Personal Development/Individual Cognitive Load.xmind",
-        "XMind Files/Personal Development/哲学体系.xmind",
+        "XMind Files/Personal Development/快速学习Scheme.xmind",
         "XMind Files/Personal Development/外部监督系统.xmind",
-        "XMind Files/Personal Development/快速学习Scheme.xmind"
+        "XMind Files/Personal Development/哲学体系.xmind"
       ],
       "sortOrder": "custom"
     }
