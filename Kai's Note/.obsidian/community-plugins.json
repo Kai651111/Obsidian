@@ -2,14 +2,18 @@
   "obsidian-excalidraw-plugin",
   "obsidian-latex-suite",
   "obsidian-underline",
+  "mousewheel-image-zoom",
   "obsidian-custom-attachment-location",
   "obsidian-style-settings",
   "break-page",
   "manual-sorting",
   "Enhanced-editing",
+  "better-export-pdf",
   "obsidian-contextual-typography",
-  "iconic",
   "editing-toolbar",
+  "obsidian-link-converter",
+  "iconic",
   "pdf-plus",
-  "obsidian-link-converter"
+  "number-headings-obsidian",
+  "obsidian-pandoc"
 ]

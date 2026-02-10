@@ -68,7 +68,7 @@
     },
     "个人系统/系统理论库/神经科学理论": {
       "children": [
-        "个人系统/系统理论库/神经科学理论/神经科学原理：运动、压力与意志力.md",
+        "个人系统/系统理论库/神经科学理论/HPA轴、SAW轴、LC-NA系统.md",
         "个人系统/系统理论库/神经科学理论/大脑皮层基本分类&功能.md",
         "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md"
       ],
@@ -103,7 +103,8 @@
         "工具文档/Obsidian 快捷键、插件设置和使用指南.md",
         "工具文档/Zotero使用指南.md",
         "工具文档/如何使用git管理项目.md",
-        "工具文档/第二大脑——工具指南.md"
+        "工具文档/第二大脑——工具指南.md",
+        "工具文档/Obsidian备份流程.md"
       ],
       "sortOrder": "custom"
     },
@@ -176,7 +177,45 @@
     "assets/工具文档": {
       "children": [
         "assets/工具文档/Zotero使用指南",
-        "assets/工具文档/Obsidian 使用指南以及插件设置"
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南": {
+      "children": [
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210123625.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210123646.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210123725.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210155902.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210155910.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210160103.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210160144.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210160333.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210161106.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210161621.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210161716.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210161831.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210163102.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210163529.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210163710.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210164220.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210175927.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210180548.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210182305.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210183527.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210183804.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210183834.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210183910.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210183941.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210184904.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210190332.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210190445.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210190615.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210191020.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210191130.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210191851.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210191901.png",
+        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210192620.png"
       ],
       "sortOrder": "custom"
     },
@@ -267,7 +306,8 @@
         "assets/ExcalidrawSave/理清思路专用 26-02-07_0.excalidraw",
         "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw",
         "assets/ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw",
-        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw"
+        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw",
+        "assets/ExcalidrawSave/Obsidian 快捷键、插件设置和使用指南 26-02-10.excalidraw"
       ],
       "sortOrder": "custom"
     },
@@ -290,6 +330,27 @@
         "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw/Pasted Image 20260207194835_533.png",
         "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw/Pasted Image 20260207194859_226.png",
         "assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw/Pasted Image 20260207194910_185.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/ExcalidrawSave/Obsidian 快捷键、插件设置和使用指南 26-02-10.excalidraw": {
+      "children": [
+        "assets/ExcalidrawSave/Obsidian 快捷键、插件设置和使用指南 26-02-10.excalidraw/Pasted Image 20260210164447_346.png",
+        "assets/ExcalidrawSave/Obsidian 快捷键、插件设置和使用指南 26-02-10.excalidraw/Pasted Image 20260210164508_448.png",
+        "assets/ExcalidrawSave/Obsidian 快捷键、插件设置和使用指南 26-02-10.excalidraw/Pasted Image 20260210175325_238.png",
+        "assets/ExcalidrawSave/Obsidian 快捷键、插件设置和使用指南 26-02-10.excalidraw/Pasted Image 20260210175353_986.png",
+        "assets/ExcalidrawSave/Obsidian 快捷键、插件设置和使用指南 26-02-10.excalidraw/Pasted Image 20260210175454_675.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw": {
+      "children": [
+        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124609_519.png",
+        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124633_024.png",
+        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124655_765.png",
+        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124716_771.png",
+        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124729_279.png",
+        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124745_894.png"
       ],
       "sortOrder": "custom"
     },
@@ -371,7 +432,8 @@
         "ExcalidrawSave/个人系统清单：核心说明书与搭建状态 26-02-09.excalidraw.md",
         "ExcalidrawSave/情绪系统：综述 26-02-09.excalidraw.md",
         "ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw.md",
-        "ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw.md"
+        "ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw.md",
+        "ExcalidrawSave/Obsidian 快捷键、插件设置和使用指南 26-02-10.excalidraw.md"
       ],
       "sortOrder": "custom"
     },
@@ -444,25 +506,6 @@
         "XMind Files/Personal Development/快速学习Scheme.xmind",
         "XMind Files/Personal Development/外部监督系统.xmind",
         "XMind Files/Personal Development/哲学体系.xmind"
-      ],
-      "sortOrder": "custom"
-    },
-    "assets/工具文档/Obsidian 使用指南以及插件设置": {
-      "children": [
-        "assets/工具文档/Obsidian 使用指南以及插件设置/Pasted image 20260210123625.png",
-        "assets/工具文档/Obsidian 使用指南以及插件设置/Pasted image 20260210123646.png",
-        "assets/工具文档/Obsidian 使用指南以及插件设置/Pasted image 20260210123725.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw": {
-      "children": [
-        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124609_519.png",
-        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124633_024.png",
-        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124655_765.png",
-        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124716_771.png",
-        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124729_279.png",
-        "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124745_894.png"
       ],
       "sortOrder": "custom"
     }

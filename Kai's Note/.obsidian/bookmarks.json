@@ -1,3 +1,45 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1770743171513,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1770743180859,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1770743325351,
+              "path": "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统：综述.md",
+              "subpath": "#^6e42dc",
+              "title": "情绪系统地图"
+            }
+          ],
+          "title": "个人执行系统"
+        },
+        {
+          "type": "group",
+          "ctime": 1770743215130,
+          "items": [],
+          "title": "理论库"
+        }
+      ],
+      "title": "个人系统"
+    },
+    {
+      "type": "group",
+      "ctime": 1770743417881,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1770743980431,
+          "path": "工具文档/Obsidian 快捷键、插件设置和使用指南.md",
+          "subpath": "#1.2 Markdown",
+          "title": "Obsidian快捷键与命令"
+        }
+      ],
+      "title": "工具文档"
+    }
+  ]
 }

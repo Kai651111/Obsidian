@@ -25,7 +25,7 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": true,
-    "rulePage": "file"
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},

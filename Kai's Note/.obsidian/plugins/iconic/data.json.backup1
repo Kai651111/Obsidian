@@ -25,7 +25,7 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": true,
-    "rulePage": "file"
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -266,6 +266,21 @@
       ],
       "enabled": true,
       "icon": "👥"
+    },
+    {
+      "id": "2IYsG",
+      "name": "个人系统/使用指南",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/使用指南"
+        }
+      ],
+      "enabled": true,
+      "icon": "📌",
+      "color": "red"
     }
   ],
   "folderRules": [
