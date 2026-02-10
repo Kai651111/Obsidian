@@ -5,7 +5,7 @@
   "showAllFolderIcons": true,
   "minimalFolderIcons": false,
   "showMarkdownTabIcons": true,
-  "showTitleIcons": false,
+  "showTitleIcons": true,
   "showTagPillIcons": false,
   "showMenuActions": true,
   "showSuggestionIcons": true,
@@ -24,25 +24,109 @@
   "maxBackups": 5,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "file"
   },
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
     "ExcalidrawSave": {
-      "icon": "lucide-wifi-zero"
+      "icon": "lucide-dot"
     },
     "POLIMI": {
-      "icon": "🤖",
-      "color": "purple"
+      "icon": "🏫"
+    },
+    "POLIMI/AMP": {
+      "icon": "lucide-circle-parking",
+      "color": "red"
+    },
+    "XMind Files": {
+      "icon": "lucide-package"
     },
     "assets": {
-      "icon": "lucide-wifi-zero"
+      "icon": "lucide-dot"
+    },
+    "个人系统": {
+      "icon": "🔵",
+      "color": "blue"
+    },
+    "个人系统/个人执行系统": {
+      "icon": "lucide-album",
+      "color": "blue"
+    },
+    "个人系统/个人执行系统/Daily Time Block.md": {
+      "icon": "lucide-blocks",
+      "color": "blue"
+    },
+    "个人系统/个人执行系统/Relaxo：防止久坐系统.md": {
+      "icon": "lucide-move",
+      "color": "green"
+    },
+    "个人系统/个人执行系统/意志力训练计划.md": {
+      "icon": "lucide-biceps-flexed",
+      "color": "red"
+    },
+    "个人系统/个人执行系统/晨起计划+睡眠计划.md": {
+      "icon": "lucide-sun-moon",
+      "color": "pink"
+    },
+    "个人系统/个人执行系统/象限工作法.md": {
+      "icon": "lucide-columns-4",
+      "color": "yellow"
+    },
+    "个人系统/个人执行系统/运动计划.md": {
+      "icon": "🏃‍♂️"
+    },
+    "个人系统/使用指南": {
+      "icon": "lucide-pin",
+      "color": "blue"
+    },
+    "个人系统/系统理论库": {
+      "icon": "lucide-book-copy",
+      "color": "blue"
+    },
+    "个人系统/系统理论库/2026年度目标.md": {
+      "icon": "lucide-goal",
+      "color": "red"
+    },
+    "个人系统/系统理论库/亲密关系理论": {
+      "icon": "👩‍❤️‍👨"
+    },
+    "个人系统/系统理论库/哲学理论": {
+      "icon": "lucide-cloud-fog",
+      "color": "blue"
+    },
+    "个人系统/系统理论库/学习理论": {
+      "icon": "🧑‍🎓"
+    },
+    "个人系统/系统理论库/心理学理论": {
+      "icon": "lucide-message-circle-heart",
+      "color": "pink"
+    },
+    "个人系统/系统理论库/王阳明心学理论": {
+      "icon": "⬜",
+      "color": "yellow"
+    },
+    "个人系统/系统理论库/王阳明心学理论/未命名.md": {
+      "icon": "lucide-square-m"
+    },
+    "个人系统/系统理论库/监督与反馈理论.md": {
+      "icon": "lucide-send-to-back",
+      "color": "blue"
+    },
+    "个人系统/系统理论库/社交与社会理论": {
+      "icon": "🌆"
+    },
+    "个人系统/系统理论库/神经科学理论": {
+      "icon": "lucide-brain-circuit",
+      "color": "blue"
+    },
+    "个人系统/系统理论库/认知资源理论.md": {
+      "icon": "🪫"
     },
     "工具文档": {
       "icon": "🧰",
-      "color": "gray"
+      "color": "purple"
     }
   },
   "bookmarkIcons": {},
@@ -52,47 +136,156 @@
   "fileRules": [
     {
       "id": "wFotJ",
-      "name": "POLIMI-AMP",
+      "name": "POLIMI/AMP",
       "match": "all",
       "conditions": [
         {
-          "source": "path",
+          "source": "tree",
           "operator": "startsWith",
           "value": "POLIMI/AMP"
         }
       ],
       "enabled": true,
-      "icon": "💡",
+      "icon": "lucide-lightbulb",
       "color": "red"
     },
     {
       "id": "LH0sZ",
-      "name": "情绪系统图标",
+      "name": "工具文档",
       "match": "all",
       "conditions": [
         {
-          "source": "name",
-          "operator": "contains"
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "工具文档"
         }
       ],
-      "enabled": true
+      "enabled": true,
+      "icon": "lucide-wrench",
+      "color": "purple"
+    },
+    {
+      "id": "jNkIs",
+      "name": "个人系统/系统理论库/神经科学理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/神经科学理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-brain",
+      "color": "blue"
+    },
+    {
+      "id": "tz5Hu",
+      "name": "个人系统/系统理论库/亲密关系理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/亲密关系理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "👩‍❤️‍👨"
+    },
+    {
+      "id": "06cnH",
+      "name": "个人系统/系统理论库/哲学理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/哲学理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-cloud-rain",
+      "color": "blue"
+    },
+    {
+      "id": "VoYVX",
+      "name": "个人系统/系统理论库/学习理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/学习理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "math-function",
+      "color": "purple"
+    },
+    {
+      "id": "fZCST",
+      "name": "个人系统/系统理论库/心理学理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/心理学理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-book-heart",
+      "color": "red"
+    },
+    {
+      "id": "jwaMu",
+      "name": "个人系统/系统理论库/王阳明心学理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/王阳明心学理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-square-m",
+      "color": "orange"
+    },
+    {
+      "id": "UpzgH",
+      "name": "个人系统/系统理论库/社交与社会理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/社交与社会理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "👥"
     }
   ],
   "folderRules": [
     {
       "id": "CLRCa",
-      "name": "POLIMI AMP",
+      "name": "POLIMI/AMP",
       "match": "all",
       "conditions": [
         {
-          "source": "path",
-          "operator": "contains",
-          "value": "AMP"
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "POLIMI/AMP"
         }
       ],
       "enabled": true,
-      "icon": "📦",
+      "icon": "lucide-package-2",
       "color": "red"
+    },
+    {
+      "id": "CaJvQ"
     }
   ]
 }

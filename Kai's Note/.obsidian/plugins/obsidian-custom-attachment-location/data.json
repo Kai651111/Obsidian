@@ -11,7 +11,8 @@
   "emptyFolderBehavior": "DeleteWithEmptyParents",
   "excludePaths": [],
   "excludePathsFromAttachmentCollecting": [
-    "ExcalidrawSave"
+    "ExcalidrawSave",
+    "XMind Files"
   ],
   "generatedAttachmentFileName": "file-${date:{momentJsFormat:'YYYYMMDDHHmmssSSS'}}",
   "includePaths": [],
