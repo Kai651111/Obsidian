@@ -20,12 +20,12 @@
   "uncolorDrag": false,
   "uncolorSelect": false,
   "uncolorQuick": false,
-  "rememberDeletedItems": false,
+  "rememberDeletedItems": true,
   "maxBackups": 5,
   "dialogState": {
     "iconMode": true,
     "emojiMode": true,
-    "rulePage": "folder"
+    "rulePage": "file"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -62,9 +62,17 @@
       "icon": "lucide-move",
       "color": "green"
     },
+    "个人系统/个人执行系统/情绪系统": {
+      "icon": "🔷",
+      "color": "orange"
+    },
     "个人系统/个人执行系统/意志力训练计划.md": {
       "icon": "lucide-biceps-flexed",
       "color": "red"
+    },
+    "个人系统/个人执行系统/成长模型：个价体、Precidence.md": {
+      "icon": "lucide-arrow-up-10",
+      "color": "orange"
     },
     "个人系统/个人执行系统/晨起计划+睡眠计划.md": {
       "icon": "lucide-sun-moon",
@@ -79,6 +87,10 @@
     },
     "个人系统/使用指南": {
       "icon": "lucide-pin",
+      "color": "blue"
+    },
+    "个人系统/思路整理专用": {
+      "icon": "lucide-map",
       "color": "blue"
     },
     "个人系统/系统理论库": {
@@ -123,6 +135,9 @@
     },
     "个人系统/系统理论库/认知资源理论.md": {
       "icon": "🪫"
+    },
+    "个人系统/系统理论库/身体与运动理论": {
+      "icon": "🫁"
     },
     "工具文档": {
       "icon": "🧰",
@@ -281,6 +296,51 @@
       "enabled": true,
       "icon": "📌",
       "color": "red"
+    },
+    {
+      "id": "5SV46",
+      "name": "个人系统/系统理论库/身体与运动理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/身体与运动理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-briefcase-medical",
+      "color": "red"
+    },
+    {
+      "id": "KYo2S",
+      "name": "个人系统/个人执行系统/情绪系统",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/个人执行系统/情绪系统"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-disc",
+      "color": "orange"
+    },
+    {
+      "id": "DFWpW",
+      "name": "个人系统/思路整理专用",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/思路整理专用"
+        }
+      ],
+      "enabled": true,
+      "color": "blue",
+      "icon": "lucide-map-pinned"
     }
   ],
   "folderRules": [

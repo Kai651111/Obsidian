@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "436fe9803293548d",
+        "id": "84a480d2900e25a5",
         "type": "tabs",
         "children": [
           {
-            "id": "7deaf0c219b061eb",
+            "id": "e28efe41447c5c29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,53 +224,90 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "7deaf0c219b061eb",
+  "floating": {
+    "id": "8f0e20fbd343b10e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e737ee72b62bbe9f",
+        "type": "window",
+        "children": [
+          {
+            "id": "f837ca9ad8f28b4d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7deaf0c219b061eb",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "神经科学原理：运动、压力与意志力 26-02-07.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 266,
+        "y": 152,
+        "width": 1022,
+        "height": 920,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e28efe41447c5c29",
   "lastOpenFiles": [
-    "工具文档/Obsidian备份流程.md",
-    "工具文档/如何使用git管理项目.md",
     "工具文档/Obsidian 快捷键、插件设置和使用指南.md",
+    "个人系统/使用指南/详细使用指南.md",
+    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/快速学习系统1.0.md",
+    "assets/个人系统/思路整理专用/整理思路 2026.2.2",
+    "assets/个人系统/思路整理专用",
+    "assets/POLIMI/思路整理专用/整理思路 2026.2.2",
+    "assets/POLIMI/思路整理专用",
+    "assets/POLIMI/AMP/思路整理专用/整理思路 2026.2.2",
+    "assets/POLIMI/AMP/思路整理专用",
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南",
+    "个人系统/思路整理专用/整理思路 2026.2.2.md",
+    "个人系统/思路整理专用",
+    "ChatGPT：意志力强的人的大脑特点.md",
+    "个人系统/系统理论库/神经科学理论/情绪-压力-意志力的大脑原理.md",
+    "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md",
+    "个人系统/系统理论库/神经科学理论/海马体.md",
+    "个人系统/系统理论库/神经科学理论/杏仁核.md",
+    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/王阳明心学理论.md",
+    "assets/个人系统/个人执行系统/情绪系统/情绪系统：综述",
+    "assets/个人系统/个人执行系统/情绪系统",
+    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库.md",
+    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统.md",
+    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪认知系统.md",
+    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪理论.md",
+    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/每日监督-反馈系统与数据库.md",
+    "个人系统/个人执行系统/情绪系统/情绪系统：综述.md",
+    "个人系统/个人执行系统/成长模型：个价体、Precidence.md",
+    "assets/POLIMI/AMP/焊接科普视频/说明：为什么这个文档的图片不是paste，而是file-日期.md",
+    "个人系统/系统理论库/身体与运动理论/免疫理论.md",
+    "个人系统/系统理论库/神经科学理论/大脑皮层基本分类&功能.md",
+    "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇/Pasted Image 20260207194910_185.png",
+    "assets/个人系统/系统理论库/身体与运动理论/免疫理论/Pasted Image 20260207194910_185.png",
     "工具文档/第二大脑——工具指南.md",
-    "个人系统/系统理论库/神经科学理论/HPA轴、SAW轴、LC-NA系统.md",
-    "个人系统/系统理论库/哲学理论/未命名.md",
     "ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw.md",
-    "工具文档/Zotero使用指南.md",
+    "个人系统/系统理论库/身体与运动理论/PurplePatch健身：我生病时应该健身吗？.md",
+    "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md",
+    "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇/Pasted image 20260210200043.png",
+    "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇/Pasted image 20260210195659.png",
+    "工具文档/如何使用git管理项目.md",
+    "工具文档/Obsidian备份流程.md",
     "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210192620.png",
     "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210191901.png",
     "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210191851.png",
     "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210191130.png",
     "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210191020.png",
-    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210190615.png",
-    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210190445.png",
-    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210190332.png",
-    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210184904.png",
-    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210183941.png",
-    "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统：综述/现代心理学中的情绪调节模型综述与应用分析.pdf",
-    "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md",
-    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统：综述.md",
-    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/王阳明心学理论.md",
-    "POLIMI/AMP/焊接科普视频.md",
-    "ExcalidrawSave/个人系统清单：核心说明书与搭建状态 26-02-09.excalidraw.md",
-    "ExcalidrawSave/个人系统-理论-数据库：清单与地址 26-02-07.excalidraw.md",
-    "POLIMI/AMP/口试应对策略.md",
-    "个人系统/个人执行系统/Relaxo：防止久坐系统.md",
-    "个人系统/个人执行系统/象限工作法.md",
-    "个人系统/个人执行系统/晨起计划+睡眠计划.md",
-    "ExcalidrawSave/Obsidian 快捷键、插件设置和使用指南 26-02-10.excalidraw.md",
-    "assets/ExcalidrawSave/Obsidian 快捷键、插件设置和使用指南 26-02-10.excalidraw",
-    "个人系统/个人执行系统/Daily Time Block.md",
-    "ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw.md",
-    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南",
-    "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw",
-    "assets/工具文档/Obsidian 使用指南以及插件设置",
-    "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md",
-    "个人系统/个人执行系统/运动计划.md",
-    "个人系统/个人执行系统/意志力训练计划.md",
-    "个人系统/系统理论库/社交与社会理论/工作场合社交理论.md",
-    "个人系统/系统理论库/心理学理论/未命名.md",
-    "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇",
-    "assets/个人系统/系统理论库/神经科学理论",
-    "assets/个人系统/系统理论库/亲密关系理论/神经科学理论/HPA轴与皮质醇",
-    "assets/个人系统/系统理论库/亲密关系理论/神经科学理论",
-    "assets/个人系统/系统理论库/亲密关系理论"
+    "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210190615.png"
   ]
 }

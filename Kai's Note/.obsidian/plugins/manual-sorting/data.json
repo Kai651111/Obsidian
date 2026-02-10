@@ -13,6 +13,7 @@
     },
     "个人系统": {
       "children": [
+        "个人系统/思路整理专用",
         "个人系统/使用指南",
         "个人系统/个人执行系统",
         "个人系统/系统理论库"
@@ -21,8 +22,10 @@
     },
     "个人系统/个人执行系统": {
       "children": [
+        "个人系统/个人执行系统/情绪系统",
         "个人系统/个人执行系统/Daily Time Block.md",
         "个人系统/个人执行系统/Relaxo：防止久坐系统.md",
+        "个人系统/个人执行系统/成长模型：个价体、Precidence.md",
         "个人系统/个人执行系统/意志力训练计划.md",
         "个人系统/个人执行系统/晨起计划+睡眠计划.md",
         "个人系统/个人执行系统/象限工作法.md",
@@ -30,9 +33,22 @@
       ],
       "sortOrder": "custom"
     },
+    "个人系统/个人执行系统/情绪系统": {
+      "children": [
+        "个人系统/个人执行系统/情绪系统/情绪系统：综述.md"
+      ],
+      "sortOrder": "custom"
+    },
     "个人系统/使用指南": {
       "children": [
-        "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md"
+        "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md",
+        "个人系统/使用指南/详细使用指南.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人系统/思路整理专用": {
+      "children": [
+        "个人系统/思路整理专用/整理思路 2026.2.2.md"
       ],
       "sortOrder": "custom"
     },
@@ -47,7 +63,8 @@
         "个人系统/系统理论库/学习理论",
         "个人系统/系统理论库/心理学理论",
         "个人系统/系统理论库/王阳明心学理论",
-        "个人系统/系统理论库/社交与社会理论"
+        "个人系统/系统理论库/社交与社会理论",
+        "个人系统/系统理论库/身体与运动理论"
       ],
       "sortOrder": "custom"
     },
@@ -66,11 +83,20 @@
       ],
       "sortOrder": "custom"
     },
+    "个人系统/系统理论库/身体与运动理论": {
+      "children": [
+        "个人系统/系统理论库/身体与运动理论/免疫理论.md",
+        "个人系统/系统理论库/身体与运动理论/PurplePatch健身：我生病时应该健身吗？.md"
+      ],
+      "sortOrder": "custom"
+    },
     "个人系统/系统理论库/神经科学理论": {
       "children": [
-        "个人系统/系统理论库/神经科学理论/HPA轴、SAW轴、LC-NA系统.md",
         "个人系统/系统理论库/神经科学理论/大脑皮层基本分类&功能.md",
-        "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md"
+        "个人系统/系统理论库/神经科学理论/情绪-压力-意志力的大脑原理.md",
+        "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md",
+        "个人系统/系统理论库/神经科学理论/杏仁核.md",
+        "个人系统/系统理论库/神经科学理论/海马体.md"
       ],
       "sortOrder": "custom"
     },
@@ -103,8 +129,7 @@
         "工具文档/Obsidian 快捷键、插件设置和使用指南.md",
         "工具文档/Zotero使用指南.md",
         "工具文档/如何使用git管理项目.md",
-        "工具文档/第二大脑——工具指南.md",
-        "工具文档/Obsidian备份流程.md"
+        "工具文档/第二大脑——工具指南.md"
       ],
       "sortOrder": "custom"
     },
@@ -132,7 +157,27 @@
     "assets/个人系统": {
       "children": [
         "assets/个人系统/系统理论库",
-        "assets/个人系统/使用指南"
+        "assets/个人系统/使用指南",
+        "assets/个人系统/个人执行系统",
+        "assets/个人系统/思路整理专用"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/个人执行系统": {
+      "children": [
+        "assets/个人系统/个人执行系统/情绪系统"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/个人执行系统/情绪系统": {
+      "children": [
+        "assets/个人系统/个人执行系统/情绪系统/情绪系统：综述"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/个人执行系统/情绪系统/情绪系统：综述": {
+      "children": [
+        "assets/个人系统/个人执行系统/情绪系统/情绪系统：综述/现代心理学中的情绪调节模型综述与应用分析.pdf"
       ],
       "sortOrder": "custom"
     },
@@ -144,21 +189,44 @@
     },
     "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态": {
       "children": [
-        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/个人系统-详细使用指南.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/快速学习系统1.0.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/每日监督-反馈系统与数据库.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪理论.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪认知系统.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统.md",
-        "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统：综述.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库.md",
         "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/王阳明心学理论.md"
       ],
       "sortOrder": "custom"
     },
+    "assets/个人系统/思路整理专用": {
+      "children": [
+        "assets/个人系统/思路整理专用/整理思路 2026.2.2"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/思路整理专用/整理思路 2026.2.2": {
+      "children": [
+        "assets/个人系统/思路整理专用/整理思路 2026.2.2/Pasted image 20260207163258.png"
+      ],
+      "sortOrder": "custom"
+    },
     "assets/个人系统/系统理论库": {
       "children": [
+        "assets/个人系统/系统理论库/身体与运动理论",
         "assets/个人系统/系统理论库/神经科学理论"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/系统理论库/身体与运动理论": {
+      "children": [
+        "assets/个人系统/系统理论库/身体与运动理论/免疫理论"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/个人系统/系统理论库/身体与运动理论/免疫理论": {
+      "children": [
+        "assets/个人系统/系统理论库/身体与运动理论/免疫理论/Pasted Image 20260207194910_185.png"
       ],
       "sortOrder": "custom"
     },
@@ -170,7 +238,9 @@
     },
     "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇": {
       "children": [
-        "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇/Matlab函数积累1.xmind"
+        "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇/Pasted Image 20260207194910_185.png",
+        "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇/Pasted image 20260210195659.png",
+        "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇/Pasted image 20260210200043.png"
       ],
       "sortOrder": "custom"
     },
@@ -183,10 +253,6 @@
     },
     "assets/工具文档/Obsidian 快捷键、插件设置和使用指南": {
       "children": [
-        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210123625.png",
-        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210123646.png",
-        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210123725.png",
-        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210155902.png",
         "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210155910.png",
         "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210160103.png",
         "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210160144.png",
@@ -210,7 +276,6 @@
         "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210184904.png",
         "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210190332.png",
         "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210190445.png",
-        "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210190615.png",
         "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210191020.png",
         "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210191130.png",
         "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210191851.png",
@@ -247,57 +312,59 @@
     },
     "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态": {
       "children": [
-        "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库",
-        "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统：综述"
-      ],
-      "sortOrder": "custom"
-    },
-    "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统：综述": {
-      "children": [
-        "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统：综述/现代心理学中的情绪调节模型综述与应用分析.pdf"
+        "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库"
       ],
       "sortOrder": "custom"
     },
     "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库": {
       "children": [
-        "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/Pasted image 20260209193615.png",
-        "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/整理思路 2026.2.2.md"
+        "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/Pasted image 20260209193615.png"
       ],
       "sortOrder": "custom"
     },
     "assets/assets/assets": {
       "children": [
-        "assets/assets/assets/个人系统"
+        "assets/assets/assets/assets"
       ],
       "sortOrder": "custom"
     },
-    "assets/assets/assets/个人系统": {
+    "assets/assets/assets/assets": {
       "children": [
-        "assets/assets/assets/个人系统/使用指南"
+        "assets/assets/assets/assets/工具文档"
       ],
       "sortOrder": "custom"
     },
-    "assets/assets/assets/个人系统/使用指南": {
+    "assets/assets/assets/assets/工具文档": {
       "children": [
-        "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态"
+        "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南"
       ],
       "sortOrder": "custom"
     },
-    "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态": {
+    "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南": {
       "children": [
-        "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库"
+        "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南"
       ],
       "sortOrder": "custom"
     },
-    "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库": {
+    "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南": {
       "children": [
-        "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/整理思路 2026.2.2"
+        "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南"
       ],
       "sortOrder": "custom"
     },
-    "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/整理思路 2026.2.2": {
+    "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南": {
       "children": [
-        "assets/assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/整理思路 2026.2.2/Pasted image 20260207163258.png"
+        "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南"
+      ],
+      "sortOrder": "custom"
+    },
+    "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南": {
+      "children": [
+        "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210123625.png",
+        "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210123646.png",
+        "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210123725.png",
+        "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210155902.png",
+        "assets/assets/assets/assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210190615.png"
       ],
       "sortOrder": "custom"
     },
@@ -312,9 +379,7 @@
       "sortOrder": "custom"
     },
     "assets/ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw": {
-      "children": [
-        "assets/ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw/成长模型：个价体、Precidence.md"
-      ],
+      "children": [],
       "sortOrder": "custom"
     },
     "assets/ExcalidrawSave/理清思路专用 26-02-07_0.excalidraw": {
@@ -369,8 +434,7 @@
     "assets/POLIMI/AMP": {
       "children": [
         "assets/POLIMI/AMP/错题笔记",
-        "assets/POLIMI/AMP/焊接科普视频",
-        "assets/POLIMI/AMP/口试应对策略"
+        "assets/POLIMI/AMP/焊接科普视频"
       ],
       "sortOrder": "custom"
     },
@@ -408,12 +472,6 @@
         "assets/POLIMI/AMP/焊接科普视频/file-20260207170043629.png",
         "assets/POLIMI/AMP/焊接科普视频/说明：为什么这个文档的图片不是paste，而是file-日期.md",
         "assets/POLIMI/AMP/焊接科普视频/Pasted image 20260207170746.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "assets/POLIMI/AMP/口试应对策略": {
-      "children": [
-        "assets/POLIMI/AMP/口试应对策略/Individual Cognitive Load.xmind"
       ],
       "sortOrder": "custom"
     },
@@ -459,6 +517,7 @@
     },
     "XMind Files": {
       "children": [
+        "XMind Files/Matlab函数积累1.xmind",
         "XMind Files/AMP",
         "XMind Files/Dynamics",
         "XMind Files/Feedback思维导图",
@@ -503,6 +562,7 @@
     },
     "XMind Files/Personal Development": {
       "children": [
+        "XMind Files/Personal Development/Individual Cognitive Load.xmind",
         "XMind Files/Personal Development/快速学习Scheme.xmind",
         "XMind Files/Personal Development/外部监督系统.xmind",
         "XMind Files/Personal Development/哲学体系.xmind"

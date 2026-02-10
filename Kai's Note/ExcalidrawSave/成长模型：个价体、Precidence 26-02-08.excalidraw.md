@@ -13,7 +13,7 @@ tags: [excalidraw]
 DATE ^GtlPA8TB
 
 ## Element Links
-BQ9caSNr: [[assets/ExcalidrawSave/成长模型：个价体、Precidence 26-02-08.excalidraw/成长模型：个价体、Precidence#成长模型——核心方面]]
+BQ9caSNr: [[个人系统/个人执行系统/成长模型：个价体、Precidence#成长模型——核心方面]]
 
 %%
 ## Drawing

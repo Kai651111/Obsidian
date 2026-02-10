@@ -124,6 +124,9 @@
     "个人系统/系统理论库/认知资源理论.md": {
       "icon": "🪫"
     },
+    "个人系统/系统理论库/身体与运动理论": {
+      "icon": "🫁"
+    },
     "工具文档": {
       "icon": "🧰",
       "color": "purple"
@@ -266,6 +269,36 @@
       ],
       "enabled": true,
       "icon": "👥"
+    },
+    {
+      "id": "2IYsG",
+      "name": "个人系统/使用指南",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/使用指南"
+        }
+      ],
+      "enabled": true,
+      "icon": "📌",
+      "color": "red"
+    },
+    {
+      "id": "5SV46",
+      "name": "个人系统/系统理论库/身体与运动理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/身体与运动理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-briefcase-medical",
+      "color": "red"
     }
   ],
   "folderRules": [
