@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1894b007c66ac9d6",
+        "id": "795cd81d3cf50f5a",
         "type": "tabs",
         "children": [
           {
-            "id": "01dba6d48dcdb6cc",
+            "id": "de60ae8028684b99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人系统/系统理论库/社交与社会理论/工作场合社交理论.md",
+                "file": "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "工作场合社交理论"
+              "title": "个人系统清单：核心说明书与搭建状态"
             }
           }
         ]
@@ -168,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人系统/系统理论库/社交与社会理论/工作场合社交理论.md",
+                "file": "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作场合社交理论 的大纲"
+              "title": "个人系统清单：核心说明书与搭建状态 的大纲"
             }
           }
         ],
@@ -250,15 +260,75 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "267e9a1be6dba510",
+        "type": "window",
+        "children": [
+          {
+            "id": "1176fc67163f5678",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dcf1ecd04c24943a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "工具文档/Obsidian 快捷键、插件设置和使用指南.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Obsidian 快捷键、插件设置和使用指南"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 322,
+        "y": 295,
+        "width": 824,
+        "height": 623,
+        "maximize": true,
+        "zoom": 0
       }
     ]
   },
-  "active": "c8e91160dfd067f5",
+  "active": "de60ae8028684b99",
   "lastOpenFiles": [
+    "工具文档/Obsidian 快捷键、插件设置和使用指南.md",
+    "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md",
+    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统：综述.md",
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210161831.png",
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210161716.png",
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210161621.png",
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210161106.png",
+    "ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw.md",
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210160333.png",
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210160144.png",
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210160103.png",
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210155910.png",
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南/Pasted image 20260210155902.png",
+    "assets/工具文档/Obsidian 快捷键、插件设置和使用指南",
+    "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw/Pasted Image 20260210124745_894.png",
+    "assets/ExcalidrawSave/Obsidian 使用指南以及插件设置 26-02-10.excalidraw",
+    "assets/工具文档/Obsidian 使用指南以及插件设置",
+    "ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw.md",
+    "个人系统/系统理论库/神经科学理论/神经科学原理：运动、压力与意志力.md",
+    "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md",
+    "个人系统/个人执行系统/象限工作法.md",
+    "个人系统/个人执行系统/运动计划.md",
+    "个人系统/个人执行系统/晨起计划+睡眠计划.md",
+    "个人系统/个人执行系统/意志力训练计划.md",
+    "个人系统/个人执行系统/Relaxo：防止久坐系统.md",
+    "个人系统/个人执行系统/Daily Time Block.md",
+    "工具文档/Zotero使用指南.md",
+    "个人系统/系统理论库/社交与社会理论/工作场合社交理论.md",
     "个人系统/系统理论库/心理学理论/未命名.md",
     "个人系统/系统理论库/学习理论/未命名.md",
     "个人系统/系统理论库/亲密关系理论/testfile.md",
-    "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md",
     "个人系统/系统理论库/认知资源理论.md",
     "个人系统/系统理论库/王阳明心学理论/未命名.md",
     "assets/个人系统/系统理论库/神经科学理论/HPA轴与皮质醇",
@@ -267,39 +337,11 @@
     "assets/个人系统/系统理论库/亲密关系理论/神经科学理论",
     "assets/个人系统/系统理论库/亲密关系理论",
     "个人系统/系统理论库/哲学理论/未命名.md",
-    "个人系统/个人执行系统/象限工作法.md",
     "POLIMI/AMP/错题笔记/Question Table & epiphany（飞机上）.md",
     "工具文档/第二大脑——工具指南.md",
     "工具文档/个人管理SOP工具指南.md",
-    "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md",
     "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态",
     "assets/个人系统/使用指南",
-    "assets/个人系统/个人执行系统/使用指南/个人系统清单：核心说明书与搭建状态",
-    "assets/个人系统/个人执行系统/使用指南",
-    "assets/个人系统/个人执行系统",
-    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统：综述.md",
-    "POLIMI/sf.md",
-    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/个人系统-详细使用指南.md",
-    "个人系统/个人执行系统/Daily Time Block.md",
-    "个人系统/个人执行系统/Relaxo：防止久坐系统.md",
-    "ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw.md",
-    "个人系统/系统理论库/神经科学理论/神经科学原理：运动、压力与意志力.md",
-    "个人系统/个人执行系统/晨起计划+睡眠计划.md",
-    "个人系统/个人执行系统/意志力训练计划.md",
-    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪理论.md",
-    "assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/每日监督-反馈系统与数据库.md",
-    "个人系统/系统理论库/社交与社会理论/社会实践理论.md",
-    "个人系统/系统理论库/社交与社会理论/广义社交理论.md",
-    "个人系统/系统理论库/社交与社会理论/工作场合社交理论.md",
-    "assets/assets/个人系统/使用指南/个人系统清单：核心说明书与搭建状态/情绪系统数据库/Pasted image 20260209193615.png",
-    "obsidian-xmind-linker/node_modules/jszip/graph.svg",
-    "obsidian-xmind-linker/docs/image02.png",
-    "obsidian-xmind-linker/docs/image01.png",
-    "assets/工具文档/Zotero使用指南/Pasted image 20260208170817.png",
-    "assets/工具文档/Zotero使用指南/Pasted image 20260207190113.png",
-    "Kai's Notebook Vault/assets/个人发展/开放式思路整理/成长理清思路专用/Pasted image 20260207163258.png",
-    "Kai's Notebook Vault/assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw/Pasted Image 20260207194910_185.png",
-    "Kai's Notebook Vault/assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw/Pasted Image 20260207194859_226.png",
-    "Kai's Notebook Vault/assets/ExcalidrawSave/神经科学原理：运动、压力与意志力 26-02-07.excalidraw/Pasted Image 20260207194835_533.png"
+    "POLIMI/sf.md"
   ]
 }

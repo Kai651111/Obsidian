@@ -5,7 +5,7 @@
   "showAllFolderIcons": true,
   "minimalFolderIcons": false,
   "showMarkdownTabIcons": true,
-  "showTitleIcons": false,
+  "showTitleIcons": true,
   "showTagPillIcons": false,
   "showMenuActions": true,
   "showSuggestionIcons": true,
@@ -25,98 +25,64 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": true,
-    "rulePage": "folder"
+    "rulePage": "file"
   },
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
     "ExcalidrawSave": {
-      "icon": "lucide-package",
-      "unsynced": [
-        "e93c0c75082831da"
-      ]
+      "icon": "lucide-dot"
     },
     "POLIMI": {
-      "icon": "🤖",
-      "color": "purple",
-      "unsynced": [
-        "e93c0c75082831da"
-      ]
+      "icon": "🏫"
+    },
+    "POLIMI/AMP": {
+      "icon": "lucide-circle-parking",
+      "color": "red"
+    },
+    "XMind Files": {
+      "icon": "lucide-package"
     },
     "assets": {
-      "icon": "lucide-package",
-      "unsynced": [
-        "e93c0c75082831da"
-      ]
+      "icon": "lucide-dot"
     },
     "个人系统": {
-      "icon": "🌔",
-      "color": "blue",
-      "unsynced": [
-        "e93c0c75082831da"
-      ]
+      "icon": "🔵",
+      "color": "blue"
     },
     "个人系统/个人执行系统": {
-      "icon": "lucide-spline-pointer",
-      "unsynced": [
-        "e93c0c75082831da"
-      ],
+      "icon": "lucide-album",
       "color": "blue"
     },
     "个人系统/个人执行系统/Daily Time Block.md": {
-      "icon": "lucide-timer",
+      "icon": "lucide-blocks",
       "color": "blue"
     },
     "个人系统/个人执行系统/Relaxo：防止久坐系统.md": {
-      "icon": "🚶‍♂️"
-    },
-    "个人系统/个人执行系统/情绪系统": {
-      "icon": "lucide-message-circle-x",
-      "color": "blue",
-      "unsynced": [
-        "e93c0c75082831da"
-      ]
-    },
-    "个人系统/个人执行系统/情绪系统/情绪系统：综述.md": {
-      "icon": "🔖",
+      "icon": "lucide-move",
       "color": "green"
     },
     "个人系统/个人执行系统/意志力训练计划.md": {
-      "icon": "lucide-biceps-flexed"
-    },
-    "个人系统/个人执行系统/成长模型：个价体、Precidence.md": {
-      "icon": "lucide-arrow-up-10"
+      "icon": "lucide-biceps-flexed",
+      "color": "red"
     },
     "个人系统/个人执行系统/晨起计划+睡眠计划.md": {
-      "icon": "lucide-moon-star"
+      "icon": "lucide-sun-moon",
+      "color": "pink"
     },
     "个人系统/个人执行系统/象限工作法.md": {
-      "icon": "lucide-dice-4",
-      "color": "blue"
+      "icon": "lucide-columns-4",
+      "color": "yellow"
     },
     "个人系统/个人执行系统/运动计划.md": {
-      "icon": "🏋️‍♂️"
+      "icon": "🏃‍♂️"
     },
     "个人系统/使用指南": {
-      "icon": "lucide-compass",
-      "unsynced": [
-        "e93c0c75082831da"
-      ],
+      "icon": "lucide-pin",
       "color": "blue"
     },
-    "个人系统/使用指南/个人系统-详细使用指南.md": {
-      "icon": "lucide-book-a",
-      "color": "red"
-    },
-    "个人系统/使用指南/个人系统清单：核心说明书与搭建状态.md": {
-      "icon": "lucide-pin",
-      "color": "red"
-    },
     "个人系统/系统理论库": {
-      "icon": "lucide-book-text",
-      "unsynced": [
-        "e93c0c75082831da"
-      ],
+      "icon": "lucide-book-copy",
       "color": "blue"
     },
     "个人系统/系统理论库/2026年度目标.md": {
@@ -124,84 +90,43 @@
       "color": "red"
     },
     "个人系统/系统理论库/亲密关系理论": {
-      "icon": "👩‍❤️‍👨",
-      "unsynced": [
-        "e93c0c75082831da"
-      ]
+      "icon": "👩‍❤️‍👨"
     },
     "个人系统/系统理论库/哲学理论": {
       "icon": "lucide-cloud-fog",
-      "unsynced": [
-        "e93c0c75082831da"
-      ],
       "color": "blue"
     },
     "个人系统/系统理论库/学习理论": {
-      "icon": "🧑‍🎓",
-      "unsynced": [
-        "e93c0c75082831da"
-      ]
+      "icon": "🧑‍🎓"
     },
     "个人系统/系统理论库/心理学理论": {
-      "icon": "lucide-heart",
-      "unsynced": [
-        "e93c0c75082831da"
-      ],
-      "color": "yellow"
+      "icon": "lucide-message-circle-heart",
+      "color": "pink"
     },
     "个人系统/系统理论库/王阳明心学理论": {
       "icon": "⬜",
-      "unsynced": [
-        "e93c0c75082831da"
-      ],
-      "color": "blue"
+      "color": "yellow"
+    },
+    "个人系统/系统理论库/王阳明心学理论/未命名.md": {
+      "icon": "lucide-square-m"
     },
     "个人系统/系统理论库/监督与反馈理论.md": {
-      "icon": "lucide-clipboard-copy",
-      "color": "orange"
+      "icon": "lucide-send-to-back",
+      "color": "blue"
     },
     "个人系统/系统理论库/社交与社会理论": {
-      "icon": "👬",
-      "unsynced": [
-        "e93c0c75082831da"
-      ]
-    },
-    "个人系统/系统理论库/社交与社会理论/工作场合社交理论.md": {
-      "icon": "🏫"
-    },
-    "个人系统/系统理论库/社交与社会理论/广义社交理论.md": {
-      "icon": "👭"
-    },
-    "个人系统/系统理论库/社交与社会理论/烂人与公平性理论.md": {
-      "icon": "🤣"
-    },
-    "个人系统/系统理论库/社交与社会理论/社会实践理论.md": {
-      "icon": "🏙️"
+      "icon": "🌆"
     },
     "个人系统/系统理论库/神经科学理论": {
-      "icon": "🧠",
-      "unsynced": [
-        "e93c0c75082831da"
-      ]
-    },
-    "个人系统/系统理论库/神经科学理论/HPA轴与皮质醇.md": {
-      "icon": "lucide-brain"
-    },
-    "个人系统/系统理论库/神经科学理论/大脑皮层基本分类&功能.md": {
-      "icon": "lucide-brain"
-    },
-    "个人系统/系统理论库/神经科学理论/神经科学原理：运动、压力与意志力.md": {
-      "icon": "lucide-brain"
+      "icon": "lucide-brain-circuit",
+      "color": "blue"
     },
     "个人系统/系统理论库/认知资源理论.md": {
-      "icon": "🪙"
+      "icon": "🪫"
     },
     "工具文档": {
       "icon": "🧰",
-      "color": "gray",
-      "unsynced": [
-        "e93c0c75082831da"
-      ]
+      "color": "purple"
     }
   },
   "bookmarkIcons": {},
@@ -211,39 +136,7 @@
   "fileRules": [
     {
       "id": "wFotJ",
-      "name": "POLIMI-AMP",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "path",
-          "operator": "startsWith",
-          "value": "POLIMI/AMP"
-        }
-      ],
-      "enabled": true,
-      "icon": "💡",
-      "color": "red"
-    },
-    {
-      "id": "e5eWd",
-      "name": "神经科学理论",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "path",
-          "operator": "startsWith",
-          "value": "个人系统/系统理论库/神经科学理论"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-brain",
-      "color": "red"
-    }
-  ],
-  "folderRules": [
-    {
-      "id": "CLRCa",
-      "name": "POLIMI AMP",
+      "name": "POLIMI/AMP",
       "match": "all",
       "conditions": [
         {
@@ -253,20 +146,146 @@
         }
       ],
       "enabled": true,
-      "icon": "📦",
+      "icon": "lucide-lightbulb",
       "color": "red"
     },
     {
-      "id": "eLGGB",
-      "name": "无标题规则",
+      "id": "LH0sZ",
+      "name": "工具文档",
       "match": "all",
       "conditions": [
         {
-          "source": "name",
-          "operator": "contains"
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "工具文档"
         }
       ],
-      "enabled": true
+      "enabled": true,
+      "icon": "lucide-wrench",
+      "color": "purple"
+    },
+    {
+      "id": "jNkIs",
+      "name": "个人系统/系统理论库/神经科学理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/神经科学理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-brain",
+      "color": "blue"
+    },
+    {
+      "id": "tz5Hu",
+      "name": "个人系统/系统理论库/亲密关系理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/亲密关系理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "👩‍❤️‍👨"
+    },
+    {
+      "id": "06cnH",
+      "name": "个人系统/系统理论库/哲学理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/哲学理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-cloud-rain",
+      "color": "blue"
+    },
+    {
+      "id": "VoYVX",
+      "name": "个人系统/系统理论库/学习理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/学习理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "math-function",
+      "color": "purple"
+    },
+    {
+      "id": "fZCST",
+      "name": "个人系统/系统理论库/心理学理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/心理学理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-book-heart",
+      "color": "red"
+    },
+    {
+      "id": "jwaMu",
+      "name": "个人系统/系统理论库/王阳明心学理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/王阳明心学理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-square-m",
+      "color": "orange"
+    },
+    {
+      "id": "UpzgH",
+      "name": "个人系统/系统理论库/社交与社会理论",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "个人系统/系统理论库/社交与社会理论"
+        }
+      ],
+      "enabled": true,
+      "icon": "👥"
+    }
+  ],
+  "folderRules": [
+    {
+      "id": "CLRCa",
+      "name": "POLIMI/AMP",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "startsWith",
+          "value": "POLIMI/AMP"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-package-2",
+      "color": "red"
+    },
+    {
+      "id": "CaJvQ"
     }
   ]
 }
